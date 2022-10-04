@@ -8,4 +8,8 @@ Below, you can see the ideas related to it.
   <li> The benefits of cloud computing   </li>  
   <li> The Benefits Of Data Mining For Businesses  </li>
   <li>What is data warehouse and what are the benefits? </li>
+  <liBig Data Management Benefits and Best Practices </li>
+  <li> How Can Web Data Scraping Benefit Your Business? </li>
+  
+ 
 </ol>
